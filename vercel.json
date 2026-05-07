@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/submit-referral.js": {
+      "memory": 256,
+      "maxDuration": 10
+    }
+  }
+}
